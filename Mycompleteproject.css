@@ -23,6 +23,7 @@ html,body{
   font-weight: bolder;
   color: black;
   font-size: 30px;
+      transition: transform 0.7s ease;
  
 }
 
